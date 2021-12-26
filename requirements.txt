@@ -1,0 +1,7 @@
+jupyter-book
+pandas
+matplotlib
+numpy
+seaborn  
+matplotlib 
+wordcloud

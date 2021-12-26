@@ -3,6 +3,21 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
+parts:
+  - caption: The Book
+    chapters:
+    - file: 00_python_crash_course
+      sections:
+        - file: 00_python_crash_course_oop 
+        - file: 00_python_crash_course_datatypes
+        - file: 00_python_crash_course_variables
+        - file: 00_python_crash_course_functions
+    - file: 01_pandas_dataframe
+    - file: 02_loading_data
+    - file: 03_cleaning_data
+    - file: 04_data_visualization
+    - file: 05_data_exploration
+  - caption: Appendix
+    chapters:
+    - file: AP_nyc_data_definitions.md
+    - file: AP_seaborn_palette.ipynb
