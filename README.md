@@ -2,6 +2,8 @@
 
 Oh, hey there! Welcome to my open-source book - `Practical Python for Data Science`. This repo contains all of the code that was used to build this book. 
 
+Check out the online book at [www.practicalpythonfordatascience.com](www.practicalpythonfordatascience.com).
+
 ### Introduction 
 
 Python is the “swiss army knife” of programming. There are several factors that contribute to its versatility:
@@ -18,19 +20,24 @@ In this book, we will focus on how to use Python in the context of data science.
 - [Seaborn](https://seaborn.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 
+# Prerequisites 
 
-### Open a Github Issue
+This book is designed to be accessible for people without a strong technical background. In order to make the most of this book, the suggested requirements are:
+
+- Basic knowledge of Python 
+- Some familiarity with Jupyter Notebooks, Pandas, and Seaborn
+- Googling skills and ability to read documentation 
+
+# Open a Github Issue
 
 Did you spot an error in this book? Have an idea on how to make the book better? I'm always open to feedback and new ideas. You can contribute by opening a [Github issue](https://github.com/jupyteracademy/practical-python-for-data-science/issues) or creating a pull request with the proposed fix. 
 
+# Support This Project 
 
-### Table of Contents
+If you would like to support this open-sourced project and its continued development and maintenance, you can support in a few of ways:
 
-1. Python Crash Course
-2. Pandas Intro
-3. Data Inspection
-4. Data Visualization
-5. Data Exploration
+- [buy me a coffee](https://www.buymeacoffee.com/jupyteracademy) ☕
+- sign up for my upcoming online courses at [Jupyter Academy](https://jupyteracademy.com/) 💕
 
 
 

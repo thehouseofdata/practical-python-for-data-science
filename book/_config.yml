@@ -32,5 +32,5 @@ html:
   use_issues_button: true
   use_repository_button: true
   favicon: "https://practicalpython.s3.us-east-2.amazonaws.com/assets/favicon.ico"
-  extra_navbar: By <a href="https://www.jillcates.com/">Jill Cates</a> 
+  extra_navbar: <a href="https://www.jillcates.com/">Jupyter Academy</a>
   google_analytics_id: UA-219614792-1

@@ -29,7 +29,7 @@ Did you spot an error in this book? Have an idea on how to make the book better?
 
 # Support This Project 
 
-If you would like to support this project and its continued development and maintenance, you can support in a few of ways:
+If you would like to support this open-sourced project and its continued development and maintenance, you can support in a few of ways:
 
 - [buy me a coffee](https://www.buymeacoffee.com/jupyteracademy) ☕
-- get some swag on the Jupyter Academy [online store](https://jupyteracademy.com/) 💕
+- sign up for my upcoming online courses at [Jupyter Academy](https://jupyteracademy.com/) 💕
