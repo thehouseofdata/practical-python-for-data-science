@@ -6,7 +6,7 @@ Check out the online book at [www.practicalpythonfordatascience.com](www.practic
 
 ### Introduction 
 
-Python is the “swiss army knife” of programming. There are several factors that contribute to its versatility:
+Python is the "swiss army knife" of programming. There are several factors that contribute to its versatility:
 
 - it has clean and human-readable syntax so it’s easy to learn
 - it’s an interpreted object-oriented scripting language
