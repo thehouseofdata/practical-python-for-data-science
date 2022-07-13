@@ -2,6 +2,8 @@
 
 **Practical Python for Data Science** by [**Jill Cates**](https://www.jillcates.com/)
 
+<img width="60%" src="https://practicalpython.s3.us-east-2.amazonaws.com/assets/practical_python_for_data_science.jpeg"/>
+
 Python is the "swiss army knife" of programming. There are several factors that contribute to its versatility:
 - it has clean and human-readable syntax so it's easy to learn 
 - it's an interpreted object-oriented scripting language 
@@ -32,4 +34,4 @@ Did you spot an error in this book? Have an idea on how to make the book better?
 If you would like to support this open-sourced project and its continued development and maintenance, you can support in a few of ways:
 
 - [buy me a coffee](https://www.buymeacoffee.com/jupyteracademy) ☕
-- sign up for my upcoming online courses at [Jupyter Academy](https://jupyteracademy.com/) 💕
+- sign up for my upcoming online courses at [Jupyter Academy](https://jupyteracademy.com/) 🍎

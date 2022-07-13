@@ -4,6 +4,9 @@ Oh, hey there! Welcome to my open-source book - `Practical Python for Data Scien
 
 Check out the online book at [www.practicalpythonfordatascience.com](www.practicalpythonfordatascience.com).
 
+
+<img width="60%" src="https://practicalpython.s3.us-east-2.amazonaws.com/assets/practical_python_for_data_science.jpeg"/>
+
 ### Introduction 
 
 Python is the "swiss army knife" of programming. There are several factors that contribute to its versatility:
